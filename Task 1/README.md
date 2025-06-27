@@ -1,8 +1,7 @@
 # Task 1: Data Exploration and Summary 
 
-## Objective:
-To understand and summarize key statistics in a dataset using **Power BI**, focusing on investment patterns, savings objectives, and demographic insights.
-
+### Task
+![Task](Screenshot%202025-06-27%20165832.png)
 
 ## What I Did:
 
@@ -33,21 +32,15 @@ Created interactive visualizations using:
 - Cards for KPIs (Avg Age, Investment Count)
 - Pie Chart for Gender Distribution
 
-
 ## 📸 Screenshots
 
 ### Dashboard Overview
 ![Dashboard Screenshot](Screenshot%202025-06-27%20165129.png)
 
-### Task Steps
-![Task Summary Screenshot](Screenshot%202025-06-27%20165832.png)
-
-
 ## 🛠 Tools Used:
 - Power BI Desktop
 - Basic DAX for calculated measures
 - Data visualizations for trend insights
-
 
 ## 🙋‍♂️ Author:
 **Aswin Saathappan**  
