@@ -32,17 +32,17 @@ Created interactive visualizations using:
 - Cards for KPIs (Avg Age, Investment Count)
 - Pie Chart for Gender Distribution
 
-## 📸 Screenshots
+## Screenshots
 
 ### Dashboard Overview
 ![Dashboard Screenshot](Screenshot%202025-06-27%20165129.png)
 
-## 🛠 Tools Used:
+## Tools Used:
 - Power BI Desktop
 - Basic DAX for calculated measures
 - Data visualizations for trend insights
 
-## 🙋‍♂️ Author:
+## Author:
 **Aswin Saathappan**  
 Power BI Intern @ Cognifyz Technologies 
 
