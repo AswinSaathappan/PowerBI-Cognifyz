@@ -46,5 +46,5 @@ Created an interactive dashboard using:
 - Visuals: Bar Chart, Stacked Column Chart, Cards
 
 ## Author:
-**Aswin Saathappan**  
+**Aswin Saathappan.A**  
 Power BI Intern @ Cognifyz Technologies
