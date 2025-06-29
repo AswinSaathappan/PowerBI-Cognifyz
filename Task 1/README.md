@@ -43,6 +43,6 @@ Created interactive visualizations using:
 - Data visualizations for trend insights
 
 ## Author:
-**Aswin Saathappan**  
+**Aswin Saathappan.A**  
 Power BI Intern @ Cognifyz Technologies 
 
