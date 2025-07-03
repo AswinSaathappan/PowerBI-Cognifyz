@@ -2,7 +2,7 @@
 # Task 4: Investment Duration and Frequency
 
 ### Task
-![Task](d3a21a16-fab1-463b-8706-f717d61d02c0.png)
+![Task](Screenshot%202025-07-03%20224501.png)
 
 ## What I Did:
 
@@ -33,7 +33,7 @@ Used Power BI to create insightful charts:
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Screenshot](f7582068-566c-4a70-bd50-b0ed5b800e8c.png)
+![Dashboard Screenshot](Screenshot%202025-07-03%20224532.png)
 
 ## Tools Used:
 - Power BI Desktop  
