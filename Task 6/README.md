@@ -2,7 +2,7 @@
 # Task 6: Source of Information
 
 ### Task
-![Task](Screenshot%202025-07-03%223229.png)
+![Task](Screenshot%20225-07-03%223229.png)
 
 ## What I Did:
 
@@ -28,7 +28,7 @@ Created visual comparisons using:
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Screenshot](Screenshot%202025-07-03%223559.png)
+![Dashboard Screenshot](Screenshot%20225-07-03%223559.png)
 
 ## Tools Used:
 - Power BI Desktop  
