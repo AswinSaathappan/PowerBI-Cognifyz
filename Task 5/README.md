@@ -1,40 +1,52 @@
 # Task 5: Reasons for Investment
 
-### 📋 Task 
-![Task Description](./Screenshot%202025-07-05%20134552.png)
-## 🧩 Steps Followed
+### Task
+![Task](Screenshot%202025-07-05%20134809.png)
 
-### 1. **Trend Analysis**
-- Identified common trends in investment motivations such as:
-  - Capital Appreciation
-  - Assured Returns
-  - Better Returns
-  - Risk-Free Investment
-  - Tax Benefits
-  - Fund Diversification
+## What I Did:
 
-### 2. **Visualization**
-- Used Power BI visualizations to showcase the most frequently cited reasons:
-  - **Horizontal Bar Chart** for the frequency of reasons
-  - **Slicer filters** to view reasons category-wise (e.g., Bonds, Equity, FD, Mutual Fund)
+### 1. **Data Import**
+- Imported the dataset containing reasons for investments into **Power BI**.
 
-## 📊 Insights
-- The most cited reason was **Capital Appreciation (30%)**, followed by:
-  - **Assured Returns (26%)**
-  - **Better Returns (24%)**
-  - **Risk-Free Investments (19%)**
+### 2. **Visual Analysis**
+- Visualized various **reasons for investment** using a horizontal bar chart.
+- Plotted **count of responses** for reasons like:
+  - Capital Appreciation: 30
+  - Assured Returns: 26
+  - Better Returns: 24
+  - Risk-Free: 19
+  - Fixed Returns: 18
+  - Fund Diversification, Safe Investment, and others
 
-## 🧠 Tools Used
-- Power BI Desktop  
-- Basic DAX and visual filters  
-- Data Cleaning and Text Splitting
-- 
-### 📈 Screenshots
-## Dashboard
-![Dashboard Screenshot](./Screenshot%202025-07-05%20134809.png)
+- Implemented **slicers** to filter reasons based on:
+  - Equity
+  - Mutual Fund
+  - Bonds
+  - Fixed Deposits
 
----
+### 3. **Key Insights**
+- **Capital Appreciation** was the most cited reason (30 responses).
+- Followed by:
+  - **Assured Returns** (26 responses)
+  - **Better Returns** (24 responses)
+  - **Risk-Free** investments (19 responses)
+- Tax-related incentives had the least mentions.
 
-## 👨‍💻 Author
+### 4. **Data Visualization**
+Created an intuitive and filterable dashboard using:
+- **Horizontal Bar Chart** for frequency of each reason.
+- **Slicer filters** for viewing category-specific reasons.
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Screenshot](Screenshot%202025-07-05%20134552.png )
+
+## Tools Used:
+- **Power BI Desktop**
+- Data cleaning and unpivoting
+- Slicers and bar chart visuals
+
+## Author:
 **Aswin Saathappan A**  
 Power BI Intern @ Cognifyz Technologies
