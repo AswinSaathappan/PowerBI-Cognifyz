@@ -1,8 +1,7 @@
 # Task 5: Reasons for Investment
 
-## 📌 Objective
-Analyze and visualize the reasons cited by individuals for making investments.
-
+### 📋 Task Description
+![Task Description](./Screenshot%202025-07-05%20134552.png)
 ## 🧩 Steps Followed
 
 ### 1. **Trend Analysis**
@@ -28,13 +27,8 @@ Analyze and visualize the reasons cited by individuals for making investments.
 ## 🧠 Tools Used
 - Power BI Desktop  
 - Basic DAX and visual filters  
-- Data Cleaning and Text Splitting  
-
-## 📷 Screenshots
-
-### 📋 Task Description
-![Task Description](./Screenshot%202025-07-05%20134552.png)
-
+- Data Cleaning and Text Splitting
+- 
 ### 📈 Dashboard Output
 ![Dashboard Screenshot](./Screenshot%202025-07-05%20134809.png)
 
