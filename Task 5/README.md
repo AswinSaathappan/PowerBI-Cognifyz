@@ -1,6 +1,6 @@
 # Task 5: Reasons for Investment
 
-### 📋 Task Description
+### 📋 Task 
 ![Task Description](./Screenshot%202025-07-05%20134552.png)
 ## 🧩 Steps Followed
 
@@ -29,7 +29,8 @@
 - Basic DAX and visual filters  
 - Data Cleaning and Text Splitting
 - 
-### 📈 Dashboard Output
+### 📈 Screenshots
+## Dashboard
 ![Dashboard Screenshot](./Screenshot%202025-07-05%20134809.png)
 
 ---
